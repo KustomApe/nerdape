@@ -9,7 +9,7 @@
 
     変数
     variable
-
+    
     変数を使って計算
     variable + variable
 
@@ -20,5 +20,5 @@
     +=, -=, *=, /=
 
     型について
-    str, int, float
 """
+
