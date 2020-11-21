@@ -22,11 +22,4 @@ faceBook = 1.23
 1.23
 4.56789
 
-kata = 1.234
-print(type(kata))
-
-# str(), int(), float()
-# 文字列型、整数型、浮動小数点型
-
-# print()関数
-# 関数はミニプログラムと考えてください
+kata = 'NerdApe'
