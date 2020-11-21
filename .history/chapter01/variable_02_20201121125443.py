@@ -78,5 +78,3 @@ address = '12345'
 print(type(address))
 address = int(address)
 print(type(address))
-
-# 文字列の連結、演算子、複合演算子、型変換、コメント

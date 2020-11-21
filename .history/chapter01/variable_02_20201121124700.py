@@ -54,29 +54,7 @@ n = 1 + 1
 print(n)
 # n = 1 + 1 + 3
 # print(n)
+# n = n + 3
+print(n)
 
 n += 3
-print(n)
-
-n -= 1
-print(n)
-
-# コメントアウト
-# コメント
-
-# チーム開発などで、関数(ミニプログラム)の役割を明記
-# このプログラムは返り値〇〇
-
-# 型変換
-# str(), int(), float()
-
-age = 29
-# age = str(age)
-print('僕の年齢は' + str(age) + '歳です。')
-
-address = '12345'
-print(type(address))
-address = int(address)
-print(type(address))
-
-# 文字列の連結、演算子、複合演算子、型変換、コメント
